@@ -1,0 +1,14 @@
+{
+  "name": "wbdv-sp21-01-anirudh-server-node",
+  "version": "1.0.0",
+  "description": "Sample node server for wbdv",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Anirudh Polisetty",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
